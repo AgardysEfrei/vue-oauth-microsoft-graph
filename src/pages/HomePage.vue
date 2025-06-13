@@ -1,4 +1,7 @@
 <template>
+    <p>
+        salut
+    </p>
 </template>
 
 <script>
